@@ -10955,6 +10955,10 @@ div {
 
 
 }
+.real{
+  display: flex;
+  justify-content: space-between;
+}
 /* ==== 
  --------- (4.05) dark body and rtl styles end ---------
  ==== */
