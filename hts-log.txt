@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 29 Aug 2024 18:10:30 at https://themecraze.net/html/alexis/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themecraze.net/html/alexis/ -O1 "C:\My Web Sites\real" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:16:22	Error: 	"Not Found" (404) at link https://themecraze.net/html/alexis/Version/ (from https://themecraze.net/html/alexis/assets/js/swiper-bundle.min.js)
+18:16:22	Error: 	"Not Found" (404) at link https://themecraze.net/html/alexis/e (from https://themecraze.net/html/alexis/assets/js/swiper-bundle.min.js)
+18:16:22	Error: 	"Not Found" (404) at link https://themecraze.net/html/alexis/t.params.url (from https://themecraze.net/html/alexis/assets/js/swiper-bundle.min.js)
+18:16:22	Error: 	"Not Found" (404) at link https://themecraze.net/html/alexis/dist/ (from https://themecraze.net/html/alexis/assets/js/aos.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 57 seconds : 736 links scanned, 731 files written (20129583 bytes overall) [13837015 bytes received at 38759 bytes/sec], 9039435 bytes transferred using HTTP compression in 500 files, ratio 26%, 19.8 requests per connection
+(4 errors, 0 warnings, 0 messages)
